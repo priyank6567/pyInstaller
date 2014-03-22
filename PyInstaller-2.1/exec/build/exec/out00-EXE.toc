@@ -1,0 +1,9 @@
+('C:\\Apps\\google-python-exercises\\pranky\\PyInstaller-2.1\\exec\\dist\\exec.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1392359268L)
