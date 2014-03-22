@@ -1,0 +1,4 @@
+pyInstaller
+===========
+
+pyInstaller + BAT file
